@@ -1,0 +1,6 @@
+{
+  "name": "Heat-Blackout Health Digital Twin",
+  "description": "A Fairness-Aware Explainable Digital Twin for Compound Heat–Blackout Morbidity Risk in U.S. Urban Communities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
